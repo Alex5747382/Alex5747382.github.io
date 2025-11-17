@@ -1,0 +1,85 @@
+body{
+    background-color: #2a3638;
+}
+    .icon {
+        margin-bottom: 50px;
+        margin-left: 745px;
+        width: 170px;
+        height: 170px;
+        border-radius: 76%;
+        object-fit: cover;
+        border: 5px solid #ccc;  
+    }
+
+  h2.name{
+    font-size: 2.5em;
+    text-align: center;
+    color: cornsilk;
+  }
+
+  div.text{
+    font-family: Verdana;
+    font-size: 1.2em;
+    color: cornsilk;
+  }
+  h4#m{
+    color: brown;
+    text-align:center;
+    text-decoration: none;
+  }
+
+  h4#m:hover{
+    color:burlywood;
+    cursor: pointer;
+  }
+
+  h4#p{
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  h4#p:hover{
+    color:burlywood;
+    cursor: pointer;
+  }
+  h2.info{
+    color:cornsilk;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 1.2em;
+  }
+  a.linkedin{
+
+    color: brown;
+    font-family: Verdana;
+    margin-left: 710px;
+    font-size: 1.25em;
+
+  }
+  a.linkedin:hover{
+    color: burlywood;
+    cursor: pointer;
+  }
+  img#linked{
+    cursor: pointer;
+    margin-left: 775px;
+  }
+  img#linked:hover{
+    background-color:cornflowerblue ;
+    border-radius: 35%;
+  }
+  h5#below{
+    color: blanchedalmond;
+    text-align: center;
+    transition: transform 1.2s;
+    cursor: pointer;
+  }
+  h5#below:hover{
+    color:cornflowerblue
+  }
+ 
+  
+
+
+
